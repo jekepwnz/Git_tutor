@@ -2,6 +2,8 @@ package ru.jeke;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, im sure its ok!");
+      
+        System.out.println("Hello, i changed this!");
+
     }
 }
